@@ -26,7 +26,7 @@ Each solution typically includes:
 - My raw, first-time code solution
 - (Optional) Notes about approach, edge cases, or things I struggled with
 
-- ## Disclaimer
+## Disclaimer
 
 - These are **not optimized solutions**.  
 - Expect brute-force, redundant checks, or less-than-ideal complexity.  
