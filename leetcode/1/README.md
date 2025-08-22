@@ -1,4 +1,4 @@
-# Count Square Submatrices with All Ones
+# Two Sum
 
 - **Platform:** LeetCode  
 - **Link:** [Two Sum](https://leetcode.com/problems/two-sum/)  
